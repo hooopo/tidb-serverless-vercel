@@ -49,6 +49,11 @@ vercel link
 vercel env add DATABASE_URL
 ```
 
+Make sure the 'Production' option is checked, like this:
+
+<img width="623" alt="image" src="https://github.com/hooopo/tidb-serverless-vercel/assets/1237528/b3c1354b-64cf-4775-b1f5-86be39c29ee0">
+
+
 ### Deploy to production
 
 ```
