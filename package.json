@@ -4,7 +4,7 @@
     "deploy": "vercel"
   },
   "dependencies": {
-    "@tidbcloud/serverless": "^0.0.11-beta1",
+    "@tidbcloud/serverless": "^0.0.10",
     "hono": "^3.12.5"
   },
   "devDependencies": {
